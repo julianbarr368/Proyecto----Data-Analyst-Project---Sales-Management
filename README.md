@@ -8,10 +8,15 @@ Para este proyecto se toma la solicitud realizada por el manager de ventas. Seg
 Los requerimientos pedidos fueron los siguientes:
 
 1. Mejorar los reportes de ventas de internet y cambiar de reportes estáticos a dashboards dinámicos.
+
 2. Mostrar cuanto se ha vendido de cada producto, a que cliente y como ha ido evolucionando en el tiempo.
+
 3. Un resumen detallado de las ventas por internet según el cliente. 
+
 4. Un resumen detallado de las ventas por internet según el producto.
+
 5. Hacer seguimiento de las ventas en el tiempo comparándolo con el presupuesto de los últimos 3 años.
+
 
 #  Extracción, transformación y carga de los datos (SQL).
 
