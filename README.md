@@ -37,6 +37,7 @@ Cada uno de estos querys genero una tabla con la información necesaria para la 
 Finalmente el reporte de ventas por internet se compone de 3 dashboards. El primero es un resumen general, el segundo está enfocada en la información detallada del cliente y la tercera en las ventas por producto.
 
 # Distribución archivos. 
+------------
 
 ├── DataBaseResults
 │   ├── Custumer.csv              <- Datos extraídos de la base de datos de los clientes.
