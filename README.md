@@ -1,4 +1,4 @@
-# Data-Analyst-Project--Sales-Management
+# Data_Analyst_Project--Sales_Management
 El siguiente proyecto busca ejemplificar todo el proceso en el flujo de trabajo de un Data Analyst. Primero se presenta una solicitud de negocio, realizada por el manager de ventas. A continuación, se usa SQL para realizar los querys con el objetivo de conseguir los datos necesarios y poder responder a las necesidades. Por último, se usa POWER BI para crear los dashboards con toda la información extraída.
 
 # Solicitud y requerimiento de negocio.
@@ -35,3 +35,24 @@ Cada uno de estos querys genero una tabla con la información necesaria para la 
 #  Sales management dasboars.
 
 Finalmente el reporte de ventas por internet se compone de 3 dashboards. El primero es un resumen general, el segundo está enfocada en la información detallada del cliente y la tercera en las ventas por producto.
+
+# Distribución archivos. 
+
+├── DataBaseResults
+│   ├── Custumer.csv              <- Datos extraídos de la base de datos de los clientes.
+│   ├── FactIntertSales.csv       <- Datos extraídos de la base de datos de las ventas por internet.
+│   ├── Product.csv               <- Datos extraídos de la base de datos de los productos.
+│   ├── SalesBudget.xlsx          <- Tabla con el presupuesto de los últimos 3 años.
+│   └── date information.csv      <- Datos extraídos de la base de datos de las fechas.
+│
+├── SQL Querys
+│   ├── CustumerQuery.sql         <- Query usado para extraer los datos de los clientes.
+│   ├── DataTimeQuery.sql         <- Query usado para extraer los datos de las fechas.
+│   ├── InternetSalesQuery.sql    <- Query usado para extraer los datos de las ventas por internet.
+│   └── ProductQuery.sql          <- Query usado para extraer los datos de los productos.
+│
+├── README.md                     <- Toda la información sobre el proyecto.
+│
+├── Sales Report.pbix             <- Archivo de POWER BI con los modelos y dashboards creados. 
+│
+├── Sales Report.pdf              <- Archivo PDF con los 3 dashboards creados.
