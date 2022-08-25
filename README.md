@@ -60,6 +60,6 @@ Finalmente el reporte de ventas por internet se compone de 3 dashboards. El pri
     │
     ├── Sales Report.pbix             <- Archivo de POWER BI con los modelos y dashboards creados. 
     │
-    └──  Sales Report.pdf              <- Archivo PDF con los 3 dashboards creados.
+    └──  Sales Report.pdf             <- Archivo PDF con los 3 dashboards creados.
 
   --------
