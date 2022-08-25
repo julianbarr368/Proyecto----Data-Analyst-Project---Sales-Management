@@ -1,7 +1,9 @@
 # Data_Analyst_Project--Sales_Management
+==============================
 El siguiente proyecto busca ejemplificar todo el proceso en el flujo de trabajo de un Data Analyst. Primero se presenta una solicitud de negocio, realizada por el manager de ventas. A continuación, se usa SQL para realizar los querys con el objetivo de conseguir los datos necesarios y poder responder a las necesidades. Por último, se usa POWER BI para crear los dashboards con toda la información extraída.
 
 # Solicitud y requerimiento de negocio.
+==============================
 
 Para este proyecto se toma la solicitud realizada por el manager de ventas. Según esta solicitud se realiza todo el proceso necesario para dar una solución al problema.
 
@@ -19,6 +21,7 @@ Los requerimientos pedidos fueron los siguientes:
 
 
 #  Extracción, transformación y carga de los datos (SQL).
+==============================
 
 En este proyecto se utilizó el manejador de base de datos Microsoft SQL y la base de datos de AdventureWorks. 
 
@@ -33,6 +36,7 @@ Para crear el modelo necesario de datos para el análisis y cumplimiento de las 
 Cada uno de estos querys genero una tabla con la información necesaria para la creación de los dashboards. Adicionalmente, se usa una tabla externa con la información del presupuesto. En total se tiene 4 archivos CSV y uno de Excel correspondiente al presupuesto. 
 
 #  Sales management dasboars.
+==============================
 
 Finalmente el reporte de ventas por internet se compone de 3 dashboards. El primero es un resumen general, el segundo está enfocada en la información detallada del cliente y la tercera en las ventas por producto.
 
