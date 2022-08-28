@@ -2,6 +2,8 @@
 
 El siguiente proyecto busca ejemplificar todo el proceso en el flujo de trabajo de un Data Analyst. Primero se presenta una solicitud de negocio, realizada por el manager de ventas. A continuación, se usa SQL para realizar los querys con el objetivo de conseguir los datos necesarios y poder responder a las necesidades. Por último, se usa POWER BI para crear los dashboards con toda la información extraída.
 
+Link del proyecto en Behance: https://www.behance.net/gallery/150974943/Data-Analyst-Project-Sales-Management
+
 # Solicitud y requerimiento de negocio.
 
 
